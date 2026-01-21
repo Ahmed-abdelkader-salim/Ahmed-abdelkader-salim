@@ -41,6 +41,9 @@ I'm a passionate **MERN Stack Developer** from Egypt 🌍.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+![AI Tools](https://img.shields.io/badge/AI--Powered_Development-8A2BE2?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+
+
 
 ## 🌟 Featured Projects:
 ### 1. [E-commerce Website](https://github.com/your-username/e-commerce)
