@@ -56,6 +56,7 @@ I'm a passionate **MERN Stack Developer** from Egypt 🌍.
 
 ![AI Tools](https://img.shields.io/badge/AI--Powered_Development-8A2BE2?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
